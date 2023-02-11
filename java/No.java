@@ -11,8 +11,8 @@ public class No{
         return proximo;
     }
 
-    public void setProximo(No novo) {
-        proximo = novo;
+    public void setProximo(No chave) {
+        proximo = chave;
     }
 
     public int getValor() {
